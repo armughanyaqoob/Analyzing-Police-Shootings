@@ -7,7 +7,7 @@ Fatal Police Shootings Data Analysis
 
 ## Overview
 
-Overview
+
 This repository contains a Python script, PoliceShootingsAnalysis.py, for analyzing and visualizing data related to fatal police shootings. The dataset used is named "fatal-police-shootings-data.xls."
 
 
